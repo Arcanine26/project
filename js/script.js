@@ -80,3 +80,23 @@
 //     }
 //     console.log(i);
 // }
+
+// Функции
+// Function Declaration
+// let num = 20;
+// function showFirstMessage(text) {
+//     console.log(text);
+//     num = 10;
+// }
+// showFirstMessage();
+// console.log(num);
+
+// Function Expression
+// let logger = function() {
+//     console.log("Hello");
+// };
+// logger();
+
+// Стрелочные функции
+// let examp = () => console.log('Hello');
+// examp();
